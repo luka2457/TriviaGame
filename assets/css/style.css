@@ -36,8 +36,8 @@ a {
     color:rgb(68, 73, 121);
 }
 
-#gifs {
-    margin: 5%;
+#gifsId {
+    margin: 1%;
 }
 
 #questions {
@@ -50,5 +50,9 @@ a {
 }
 
 #startButton {
-    margin-top: 2%;
+    margin-top: 1%;
+}
+
+#playAgain {
+    margin: 2%;
 }
